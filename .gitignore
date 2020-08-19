@@ -114,3 +114,7 @@ docs/_build/
 # PyBuilder #
 #############
 target/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
